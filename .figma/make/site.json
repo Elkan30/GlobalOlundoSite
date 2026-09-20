@@ -1,0 +1,10 @@
+{
+  "description": "Showcasing a diverse portfolio, this modern institutional website enhances Global Olundo's corporate identity, offering intuitive navigation and premium visuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
